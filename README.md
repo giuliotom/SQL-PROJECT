@@ -10,7 +10,9 @@ Investigate a Relational Database
 
 Description
 
-Using SQL, I've query a DVD rental database to answer some questions. You will be able to see my queries in the txt files and also the presentation in the slides.pdf file.
+Using SQL, I've query a DVD rental database to answer some questions. 
+Then make some visualization to answer the questions.
+You will be able to see my queries in the txt files and also the presentation in the slides.pdf file.
 
 Credits
 
